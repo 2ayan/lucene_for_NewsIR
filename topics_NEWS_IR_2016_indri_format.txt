@@ -1,0 +1,1166 @@
+<parameters>
+<index>/c/lucene_for_NewsIR/var/index/indri_index/</index>
+<trecFormat>true</trecFormat>
+<count>100000</count>
+
+<query>
+<type>indri</type>
+<number>1</number>
+<text>
+#1("research" "market" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>2</number>
+<text>
+#1("trend" "forecast" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>3</number>
+<text>
+#1("forecast" "2020" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>4</number>
+<text>
+#1("board" "director" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>5</number>
+<text>
+#1("market" "report" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>6</number>
+<text>
+#1("industri" "analysi" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>7</number>
+<text>
+#1("industri" "2015" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>8</number>
+<text>
+#1("morgan" "stanley" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>9</number>
+<text>
+#1("usd" "2020" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>10</number>
+<text>
+#1("rodman" "renshaw" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>11</number>
+<text>
+#1("jpmorgan" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>12</number>
+<text>
+#1("frost" "sullivan" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>13</number>
+<text>
+#1("levi" "korsinsky" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>14</number>
+<text>
+#1("merrill" "lynch" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>15</number>
+<text>
+#1("canaccord" "genuity" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>16</number>
+<text>
+#1("deutsch" "bank" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>17</number>
+<text>
+#1("stock" "market" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>18</number>
+<text>
+#1("world" "cup" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>19</number>
+<text>
+#1("cup" "2015" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>20</number>
+<text>
+#1("us" "open" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>21</number>
+<text>
+#1("manchest" "unit" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>22</number>
+<text>
+#1("rugbi" "world" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>23</number>
+<text>
+#1("premier" "leagu" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>24</number>
+<text>
+#1("champion" "leagu" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>25</number>
+<text>
+#1("real" "madrid" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>26</number>
+<text>
+#1("singapor" "grand" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>27</number>
+<text>
+#1("grand" "prix" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>28</number>
+<text>
+#1("manschester" "city" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>29</number>
+<text>
+#1("jose" "mourinho" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>30</number>
+<text>
+#1("serena" "william" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>31</number>
+<text>
+#1("world" "championship" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>32</number>
+<text>
+#1("wayne" "rooney" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>33</number>
+<text>
+#1("cristiano" "ronaldo" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>34</number>
+<text>
+#1("bayern" "munich" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>35</number>
+<text>
+#1("lionel" "messi" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>36</number>
+<text>
+#1("david" "beckham" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>37</number>
+<text>
+#1("field" "hockey" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>38</number>
+<text>
+#1("jagmohan" "dalmiya" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>39</number>
+<text>
+#1("de" "villier" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>40</number>
+<text>
+#1("pope" "francis" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>41</number>
+<text>
+#1("donald" "trump" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>42</number>
+<text>
+#1("hillary" "clinton" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>43</number>
+<text>
+#1("barrack" "obama" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>44</number>
+<text>
+#1("narendra" "modi" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>45</number>
+<text>
+#1("jose" "mourinho" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>46</number>
+<text>
+#1("justin" "bieber" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>47</number>
+<text>
+#1("serena" "william" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>48</number>
+<text>
+#1("kim" "kardashian" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>49</number>
+<text>
+#1("johnny" "depp" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>50</number>
+<text>
+#1("salman" "khan" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>51</number>
+<text>
+#1("queen" "elizabeth" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>52</number>
+<text>
+#1("dalai" "lama" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>53</number>
+<text>
+#1("mark" "zuckerberg" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>54</number>
+<text>
+#1("wayne" "rooney" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>55</number>
+<text>
+#1("cristiano" "ronaldo" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>56</number>
+<text>
+#1("lionel" "messi" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>57</number>
+<text>
+#1("david" "cameron" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>58</number>
+<text>
+#1("donald" "trump" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>59</number>
+<text>
+#1("hillary" "clinton" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>60</number>
+<text>
+#1("kim" "davi" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>61</number>
+<text>
+#1("jeremi" "corbyn" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>62</number>
+<text>
+#1("taylor" "swift" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>63</number>
+<text>
+#1("tony" "abbott" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>64</number>
+<text>
+#1("presid" "obama" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>65</number>
+<text>
+#1("bernie" "sanders" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>66</number>
+<text>
+#1("narendra" "modi" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>67</number>
+<text>
+#1("rahul" "gandhi" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>68</number>
+<text>
+#1("obama" "putin" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>69</number>
+<text>
+#1("white" "hous" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>70</number>
+<text>
+#1("wall" "street" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>71</number>
+<text>
+#1("prime" "minist" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>72</number>
+<text>
+#1("bihar" "poll" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>73</number>
+<text>
+#1("vice" "president" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>74</number>
+<text>
+#1("david" "cameron" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>75</number>
+<text>
+#1("iphon" "6s" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>76</number>
+<text>
+#1("ipad" "pro" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>77</number>
+<text>
+#1("appl" "tv" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>78</number>
+<text>
+#1("mobil" "app" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>79</number>
+<text>
+#1("technolog" "inc" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>80</number>
+<text>
+#1("window" "10" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>81</number>
+<text>
+#1("appl" "watch" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>82</number>
+<text>
+#1("fiat" "chrysler" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>83</number>
+<text>
+#1("volkswagen" "ag" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>84</number>
+<text>
+#1("xperia" "z5" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>85</number>
+<text>
+#1("nexu" "6p" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>86</number>
+<text>
+#1("big" "data" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>87</number>
+<text>
+#1("hadoop" "world" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>88</number>
+<text>
+#1("cloud" "service" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>89</number>
+<text>
+#1("search" "engin" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>90</number>
+<text>
+#1("engin" "optim" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>91</number>
+<text>
+#1("silicon" "valley" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>92</number>
+<text>
+#1("fashion" "week" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>93</number>
+<text>
+#1("fashion" "show" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>94</number>
+<text>
+#1("venice" "film" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>95</number>
+<text>
+#1("film" "festival" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>96</number>
+<text>
+#1("emmy" "award" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>97</number>
+<text>
+#1("miss" "america" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>98</number>
+<text>
+#1("game" "of" "thrones" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>99</number>
+<text>
+#1("james" "bond" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>100</number>
+<text>
+#1("harry" "potter" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>101</number>
+<text>
+#1("walt" "disney" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>102</number>
+<text>
+#1("johnni" "depp" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>103</number>
+<text>
+#1("salman" "khan" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>104</number>
+<text>
+#1("oil" "gas" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>105</number>
+<text>
+#1("oil" "price" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>106</number>
+<text>
+#1("global" "healthcare" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>107</number>
+<text>
+#1("natural" "gas" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>108</number>
+<text>
+#1("fossil" "fuel" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>109</number>
+<text>
+#1("iran" "deal" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>110</number>
+<text>
+#1("air" "strike" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>111</number>
+<text>
+#1("iran" "nuclear" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>112</number>
+<text>
+#1("cyber" "security" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>113</number>
+<text>
+#1("sexual" "assault" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>114</number>
+<text>
+#1("gay" "marriage" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>115</number>
+<text>
+#1("drug" "delivery" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>116</number>
+<text>
+#1("drug" "market" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>117</number>
+<text>
+#1("border" "control" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>118</number>
+<text>
+#1("lunar" "eclipse" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>119</number>
+<text>
+#1("refuge" "crisis" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>120</number>
+<text>
+#1("asylum" "seeker" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>121</number>
+<text>
+#1("syrian" "refuge" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>122</number>
+<text>
+#1("islam" "state" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>123</number>
+<text>
+#1("boko" "haram" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>124</number>
+<text>
+#1("star" "war" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>125</number>
+<text>
+#1("emission" "test" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>126</number>
+<text>
+#1("hajj" "stampede" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>127</number>
+<text>
+#1("labor" "day" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>128</number>
+<text>
+#1("health" "care" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>129</number>
+<text>
+#1("cancer" "research" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>130</number>
+<text>
+#1("breast" "cancer" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>131</number>
+<text>
+#1("plastic" "surgeon" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>132</number>
+<text>
+#1("death" "penalti" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>133</number>
+<text>
+#1("alzheim" "disease" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>134</number>
+<text>
+#1("prostat" "cancer" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>135</number>
+<text>
+#1("lung" "cancer" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>136</number>
+<text>
+#1("rheumatoid" "arthriti" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>137</number>
+<text>
+#1("burkina" "faso" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>138</number>
+<text>
+#1("saudi" "arabia" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>139</number>
+<text>
+#1("hong" "kong" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>140</number>
+<text>
+#1("new" "zealand" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>141</number>
+<text>
+#1("south" "korea" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>142</number>
+<text>
+#1("puerto" "rico" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>143</number>
+<text>
+#1("ralph" "lauren" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>144</number>
+<text>
+#1("blue" "jay" )
+</text>
+</query>
+
+<query>
+<type>indri</type>
+<number>145</number>
+<text>
+#1("ice" "cream" )
+</text>
+</query>
+
+</parameters>
